@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "channel":"AajTak",
+        "reporter":"Deepak Chourasia",
+        "news":"NEET result declared today "
+    },
+    {
+        "id":2,
+        "channel":"ZeeNews",
+        "reporter":"Sudhir Choudhary",
+        "news":"Heavy RainFall in Delhi"
+    },
+    {
+        "id":3,
+        "channel":"DDNews",
+        "reporter":"Abhishek Sharma",
+        "news":"Debate in parliament"
+    },
+    {
+        "id":4,
+        "channel":"ABP News",
+        "reporter":"Rubika Liyaquat",
+        "news":"Lokpal Bill"
+    },
+
+    {
+        "id":5,
+        "channel":"Republic News",
+        "reporter":"Arnab Goswami",
+        "news":"Congrees Unemployment Rally"
+    }
+]
